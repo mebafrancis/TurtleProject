@@ -1,0 +1,6 @@
+Dear {names},
+
+You are invited for the special event.
+
+With regards,
+Milan Tresa
